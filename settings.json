@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "ZynoticSMP.aternos.me:45451",
+    "ip": "ZynoticSMP.aternos.me",
     "port": 45451,
     "version": "",
     "try-creative": false
